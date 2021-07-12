@@ -11,6 +11,7 @@ Testing golang and node.js http request context-cancellation behavior
 
 ## Node.js:
 
-1. `npm install`
-2. `npm run start` / `node server.js`
-3. `curl localhost:3000/cancel`
+1. `cd js`
+2. `npm install`
+3. `npm run start` / `node server.js`
+4. `curl localhost:3000/cancel`
